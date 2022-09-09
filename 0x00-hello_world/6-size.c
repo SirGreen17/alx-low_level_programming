@@ -5,7 +5,8 @@
  *
  * Description: prints the sizes of various data type
  *
- * Retrun: Always 0 (Success)
+ * Return: Always 0 (Success)
+ *
  */
 int main(void)
 {
