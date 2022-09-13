@@ -20,6 +20,7 @@ int main(void)
 		}
 		i++;
 	}
-		putchar(10);
-		retrun (0);
+
+	putchar(10);
+	return (0);
 }
