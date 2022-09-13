@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: print all numbers in base
+ * Description: Print all numbers in base
  *
  * Retrun: Always 0 (Success)
  */
