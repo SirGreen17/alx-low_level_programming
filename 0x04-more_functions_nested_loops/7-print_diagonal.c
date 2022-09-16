@@ -3,6 +3,8 @@
 /**
  * print diagonal line using \ character
  * @n: the number of \ characters to be printed
+ *
+ * Return: Always 0.
  */
 void print_diagonal(int n)
 {
